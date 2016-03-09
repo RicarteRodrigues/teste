@@ -3,3 +3,5 @@ d3dx9_39.dll
 0xc000007b
 
 tiro tiro
+
+alguns patos só querem ver o mundo queimar
