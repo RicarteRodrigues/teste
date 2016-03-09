@@ -1,0 +1,46 @@
+GCM - Prova
+
+-A construção de softwares podem trazer diversos problemas quando não
+gerenciados
+
+Principais Causas
+-Falha na comunicação
+-Mais de um programador mexendo no software
+
+-Gerencia é um conjunto de atividades para controlar modificações no software que
+está sendo construido, organizando-as e documentando-as.
+
+--palavra-chave: CONTROLAR MUDANÇAS
+ 
+-Configuração é um estado em que o software se encontra (UML, documentação)
+	-São os itens produzidos durante a construção do software, ou seja, diagramas
+	manuais
+	-Artefato ou Item de Configuração de Software, é cada item 
+	que pode passa por uma mudança 
+
+
+-Gerencia != Suporte
+
+-Gerencia é o controle de todas as modificações de um software durante todo
+seu clico de desenvolvimento
+-Suporte é da um auxilio no uso do software. Manutenção é modificar o sistema de 
+forma corretiva ou preventiva
+
+
+-INTEGRAÇÃO CONTINUA
+	-Sempre que uma nova funcionalidade é implementada, enviar o codigo para o repositorio.
+	-Esse envio de pequenas partes de forma constante, facilita a INTEGRAÇÃO CONTINUA.
+
+Gerencia de Configuração: -Controle de Versão
+			  -Controte de Mudanças
+			  -Integração Continua
+
+-Controle de Versão: Gerenciamento dos itens de configuração e suas versões durante o ciclo de desenvolvimento. E      (Repositorio)
+		     recuperação de algum estado do sistema durante o seu ciclo (Voltar Versão)
+
+-Controle de Mudança: Controlar AS MUDANÇAS nos ARTEFATOS ou Itens de Configuração
+
+-Integração Continua: Garantir que as mudanças sejam construidas, testadas e relatadas ao longo do ciclo
+
+GIT-LIVRO
+
